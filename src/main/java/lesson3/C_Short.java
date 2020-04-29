@@ -1,0 +1,10 @@
+package main.java.lesson3;
+
+public class C_Short {
+    public static void main(String[] args) {
+        short a = 4656;
+        short b = 'f';
+        short c = 'ы';
+        //System.out.println('c');
+    }
+}

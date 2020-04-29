@@ -8,5 +8,7 @@
     <artifactId>New Project JAVA (3rd lesson)</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <build>
+        <sourceDirectory>src</sourceDirectory>
+    </build>
 </project>
